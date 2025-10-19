@@ -133,4 +133,4 @@ Okay use this for read the root flag.
 <img src="./media/media/image25.png"
 style="width:6.5in;height:0.74306in" />
 
-We found root flag(b1b968b37519ad1daa6408188649263d).
+We found root flag.
