@@ -70,7 +70,7 @@ escalation.
 <img src="./media/media/image12.png"
 style="width:4.72708in;height:2.68194in" />
 
-l use wget but machine haven’t **wget** after this l use **curl**.
+l use **wget** but machine haven’t **wget** after this l use **curl**.
 
 <img src="./media/media/image13.png"
 style="width:4.75in;height:0.40139in" />
@@ -90,7 +90,7 @@ privileges escalation.
 style="width:3.13194in;height:0.43056in" />
 
 l go [gtfobins](https://gtfobins.github.io/) for privileges escalations with **python3.7
-capabilitites**.
+capabilities**.
 
 <img src="./media/media/image17.png"
 style="width:6.49306in;height:1.84722in" />
