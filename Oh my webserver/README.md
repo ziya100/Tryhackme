@@ -76,16 +76,21 @@ style="width:4.75in;height:0.40139in" />
 <img src="./media/media/image14.png"
 style="width:6.01528in;height:0.89375in" />
 
-Give permission **linpeas.sh** and run
-it.<img src="./media/media/image15.png"
+Give permission **linpeas.sh** and run it.
+
+<img src="./media/media/image15.png"
 style="width:6.5in;height:4.46944in" />
 
 l found **/usr/bin/python3.7 = cap_setuid+ep** we can use this for
-privileges escalation.<img src="./media/media/image16.png"
+privileges escalation.
+
+<img src="./media/media/image16.png"
 style="width:3.13194in;height:0.43056in" />
 
-l go [gtfobins](https://gtfobins.github.io/) for privileges escalations with **python3.7
-capabilitites**.<img src="./media/media/image17.png"
+l go gtfobins for privileges escalations with **python3.7
+capabilitites**.
+
+<img src="./media/media/image17.png"
 style="width:6.49306in;height:1.84722in" />
 
 l use **python3.7 -c 'import os; os.setuid(0); os.system("/bin/sh")'**
@@ -112,7 +117,7 @@ scanner in target machine and run it we see **5986** port.
 style="width:3.30417in;height:1.23472in" />
 
 l use google for searching **5986** port exploit and l found
-**[CVE-2021-38647](https://github.com/AlteredSecurity/CVE-2021-38647)** vulnerability.
+**CVE-2021-38647** vulnerability.
 
 <img src="./media/media/image22.png"
 style="width:6.5in;height:3.86528in" />
