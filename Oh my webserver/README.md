@@ -23,8 +23,8 @@ style="width:6.49236in;height:4.21181in" />
 **Searchsploit:**
 
 When I searched for the HTTP port version in Searchsploit, I found
-**Path Traversal** and **RCE** in **Apache HTTP server
-2.4.49**.<img src="./media/media/image4.png"
+**Path Traversal** and **RCE** in **[Apache HTTP server
+2.4.49](https://www.exploit-db.com/exploits/50383)**.<img src="./media/media/image4.png"
 style="width:6.49236in;height:0.65909in" />
 
 **Metasploit:**
