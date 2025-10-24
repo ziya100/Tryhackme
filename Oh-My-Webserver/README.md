@@ -5,7 +5,7 @@
 **Rustscan:**
 
 l start with rustscan first for find ports and l found
-22(ssh),**80(http)** ports.
+**22(ssh)**,**80(http)** ports.
 
 <img src="./media/media/image1.png"
 style="width:4.80042in;height:1.01676in" />
@@ -23,8 +23,8 @@ style="width:6.49236in;height:4.21181in" />
 **Searchsploit:**
 
 When I searched for the HTTP port version in Searchsploit, I found
-**Path Traversal** and **RCE** in **Apache HTTP server
-2.4.49**.<img src="./media/media/image4.png"
+**Path Traversal** and **RCE** in **[Apache HTTP server
+2.4.49](https://www.exploit-db.com/exploits/50383)**.<img src="./media/media/image4.png"
 style="width:6.49236in;height:0.65909in" />
 
 **Metasploit:**
@@ -70,7 +70,7 @@ escalation.
 <img src="./media/media/image12.png"
 style="width:4.72708in;height:2.68194in" />
 
-l use wget but machine haven’t **wget** after this l use **curl**.
+l use **wget** but machine haven’t **wget** after this l use **curl**.
 
 <img src="./media/media/image13.png"
 style="width:4.75in;height:0.40139in" />
@@ -89,8 +89,8 @@ privileges escalation.
 <img src="./media/media/image16.png"
 style="width:3.13194in;height:0.43056in" />
 
-l go gtfobins for privileges escalations with **python3.7
-capabilitites**.
+l go [gtfobins](https://gtfobins.github.io/) for privileges escalations with **python3.7
+capabilities**.
 
 <img src="./media/media/image17.png"
 style="width:6.49306in;height:1.84722in" />
@@ -104,7 +104,7 @@ style="width:6.02083in;height:0.91667in" />
 <img src="./media/media/image19.png"
 style="width:6.5in;height:2.32639in" />
 
-We get user flag but we can’t get **root.txt**.l check **/etc/hosts**
+We get user flag but we can’t get **root.txt**. l check **/etc/hosts**
 and found **172.17.0.2** ip.
 
 <img src="./media/media/image20.png"
@@ -119,7 +119,7 @@ scanner in target machine and run it we see **5986** port.
 style="width:3.30417in;height:1.23472in" />
 
 l use google for searching **5986** port exploit and l found
-**CVE-2021-38647** vulnerability.
+**[CVE-2021-38647](https://github.com/AlteredSecurity/CVE-2021-38647)** vulnerability.
 
 <img src="./media/media/image22.png"
 style="width:6.5in;height:3.86528in" />
