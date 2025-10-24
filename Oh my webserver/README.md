@@ -65,7 +65,9 @@ anything.
 style="width:3.59861in;height:1.18194in" />
 
 l use python server for upload linpeas target machine for privileges
-escalation.<img src="./media/media/image12.png"
+escalation.
+
+<img src="./media/media/image12.png"
 style="width:4.72708in;height:2.68194in" />
 
 l use wget but machine haven’t **wget** after this l use **curl**.
