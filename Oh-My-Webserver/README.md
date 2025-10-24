@@ -15,7 +15,7 @@ style="width:2.87525in;height:0.55838in" />
 
 **Nmap:**
 
-After rustscan use nmap for check ports version.
+After rustscan use **nmap** for check ports version.
 
 <img src="./media/media/image3.png"
 style="width:6.49236in;height:4.21181in" />
