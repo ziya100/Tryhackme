@@ -104,7 +104,7 @@ style="width:6.02083in;height:0.91667in" />
 <img src="./media/media/image19.png"
 style="width:6.5in;height:2.32639in" />
 
-We get user flag but we can’t get **root.txt**.l check **/etc/hosts**
+We get user flag but we can’t get **root.txt**. l check **/etc/hosts**
 and found **172.17.0.2** ip.
 
 <img src="./media/media/image20.png"
