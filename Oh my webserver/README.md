@@ -89,7 +89,7 @@ privileges escalation.
 <img src="./media/media/image16.png"
 style="width:3.13194in;height:0.43056in" />
 
-l go gtfobins for privileges escalations with **python3.7
+l go [gtfobins](https://gtfobins.github.io/) for privileges escalations with **python3.7
 capabilitites**.
 
 <img src="./media/media/image17.png"
@@ -119,7 +119,7 @@ scanner in target machine and run it we see **5986** port.
 style="width:3.30417in;height:1.23472in" />
 
 l use google for searching **5986** port exploit and l found
-**CVE-2021-38647** vulnerability.
+**[CVE-2021-38647](https://github.com/AlteredSecurity/CVE-2021-38647)** vulnerability.
 
 <img src="./media/media/image22.png"
 style="width:6.5in;height:3.86528in" />
