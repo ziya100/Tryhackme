@@ -43,7 +43,7 @@ When we check http server we see apache2 default page.
 <img src="./media/media/image7.png"
 style="width:6.5in;height:2.66597in" />
 
-Let’s check first source code.When we check source code we see jessie
+Let’s check first source code.When we check source code we see **jessie**
 name in source code.
 
 <img src="./media/media/image8.png"
