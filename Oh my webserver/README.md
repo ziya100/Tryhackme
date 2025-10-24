@@ -5,7 +5,7 @@
 **Rustscan:**
 
 l start with rustscan first for find ports and l found
-22(ssh),**80(http)** ports.
+**22(ssh)**,**80(http)** ports.
 
 <img src="./media/media/image1.png"
 style="width:4.80042in;height:1.01676in" />
