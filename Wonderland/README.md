@@ -8,7 +8,7 @@ l started enumeration with **rustscan** and found two open
 port **22**(**http**) and **80**(**ssh**).
 
 <img src="./media/media/image1.png"
-style="width:6.5in;height:3.57083in" />
+style="width:6.5in;height:3.57083in" />  ```bash
 
 **Nmap:**
 
