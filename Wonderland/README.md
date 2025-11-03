@@ -106,7 +106,7 @@ read.
 <img src="./media/media/image16.png"
 style="width:5.05044in;height:2.3002in" />
 
-We see **walrus_and_the_carpenter.py.**l check this python file and we
+We see **walrus_and_the_carpenter.py**.l check this python file and we
 see python code about **poem** and we see **random** library.
 
 <img src="./media/media/image17.png"
