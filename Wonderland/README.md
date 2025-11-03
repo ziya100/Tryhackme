@@ -157,7 +157,7 @@ style="width:6.5in;height:4.63333in" />
 l found /bin/echo -n ‘Probably by ‘ && date –date=’next hour’
 -R.This is same thing with when we use alice user to go rabbit user.l
 create date file and write **bash script**,**permission** and **export**
-**path**)
+**path**.
 
 <img src="./media/media/image32.png"
 style="width:5.60417in;height:1.10417in" />
